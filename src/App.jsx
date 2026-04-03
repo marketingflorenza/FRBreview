@@ -84,7 +84,7 @@ import React, { useState, useEffect, useRef, useCallback } from 'react';
               <button type='submit' disabled={isLoading || !username || !password} className={`w-full py-3 rounded-xl font-bold text-white transition-all ${isLoading ? 'bg-purple-500/50' : 'bg-gradient-to-r from-purple-500 to-pink-500 hover:scale-[1.02]'}`}>{isLoading ? 'กำลังเข้าสู่ระบบ...' : 'เข้าสู่ระบบ'}</button>
             </form>
           </div>
-          <div className='text-center text-purple-200 text-xs'><p>User: Frb / Pass: 1234</p></div>
+          <div className='text-center text-purple-200 text-xs'><p>Florenzadata</p></div>
         </div>
       </div>
     );
