@@ -59,7 +59,7 @@ import React, { useState, useEffect, useRef, useCallback } from 'react';
         <div className='w-full max-w-md'>
           <div className='text-center mb-8'>
             <div className='inline-flex items-center justify-center w-16 h-16 bg-white/20 backdrop-blur-md rounded-full mb-4 border border-white/30'><Database className='w-8 h-8 text-white' /></div>
-            <h1 className='text-4xl font-bold text-white mb-2'>Florenza Clinic</h1>
+            <h1 className='text-4xl font-bold text-white mb-2'>FRB Florenza Clinic</h1>
             <p className='text-purple-200 text-sm font-medium'>ระบบจัดการประวัติ · นัดหมาย · ติดตาม</p>
           </div>
           <div className='bg-white/10 backdrop-blur-xl rounded-3xl border border-white/20 shadow-2xl p-8 mb-6'>
@@ -3204,7 +3204,7 @@ import React, { useState, useEffect, useRef, useCallback } from 'react';
               <div className="flex items-center space-x-3">
                 <div className="bg-white p-2 rounded-full shadow-md"><Database className="w-5 h-5 sm:w-6 sm:h-6 text-purple-600" /></div>
                 <div>
-                  <h1 className="text-lg sm:text-2xl font-bold tracking-tight">Florenza Clinic</h1>
+                  <h1 className="text-lg sm:text-2xl font-bold tracking-tight">FRB Florenza Clinic</h1>
                   <p className="text-purple-200 text-[10px] sm:text-sm font-medium">ระบบจัดการประวัติ · นัดหมาย · ติดตาม</p>
                 </div>
               </div>
